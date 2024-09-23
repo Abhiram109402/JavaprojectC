@@ -1,4 +1,5 @@
 //write a java program for Bikerace 
+// This program for II year II semester Java Lab
 importjava.util.*;
 classBikerace
 {
